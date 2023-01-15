@@ -39,6 +39,9 @@ Here are some ideas to get you started:
 <!-- <table><tr><td valign="top" width="33%"> -->
 
    [![My Skills](https://skillicons.dev/icons?i=py,cpp,tensorflow,pytorch,flask,fastapi,docker,gcp,kubernetes)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=flask,fastapi)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=docker,gcp,kubernetes)](https://skillicons.dev)
    
 
 <!-- </td></tr></table>   -->
