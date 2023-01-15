@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 ## My Skill Set  
 <!-- <table><tr><td valign="top" width="33%"> -->
 
-   [![My Skills](https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,docker,gcp,kubernetes)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,flask,fastapi,docker,gcp,kubernetes)](https://skillicons.dev)
+   
 
 <!-- </td></tr></table>   -->
 
