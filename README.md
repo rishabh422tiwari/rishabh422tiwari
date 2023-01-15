@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<!-- <table><tr><td valign="top" width="33%"> -->
 
    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-</td></tr></table>  
+<!-- </td></tr></table>   -->
 
 <br/>  
 
