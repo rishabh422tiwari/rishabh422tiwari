@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </div>  
    -->
 
-### <div>I'm Rishabh, a full-time Machine learning Engineer 👨‍💻  🚀</div>  
+### <div>Hello Folks! I'm Rishabh, a full-time Machine learning Engineer 👨‍💻  🚀</div>  
   
 
 - 🔭 I have experience in designing, developing, and deploying various Machine Learning models  
