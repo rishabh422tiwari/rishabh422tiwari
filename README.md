@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 
 <!-- </td></tr></table>   -->
 
+<br/>  
+
 ## Connect with me  
 <div>
 <a href="https://github.com/rishabh422tiwari" target="_blank">
